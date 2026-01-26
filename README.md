@@ -24,9 +24,9 @@ não é gambiarra nn, é projeto com menor custo
 
 Faixa: 3 Hz–30 Hz (ELF), 3 kHz–30 kHz (VLF)
 
-Sensor: Antena magnética de baixa frequência ou magnetômetro sensível
+Sensor: Entrada P2 (microfone ou line-in
 
-Setup amador: Loop de fio com ferrite + LNA + ADC (Arduino/Raspberry Pi)
+Setup amador: Cabo P2 (3,5 mm) + Sensor Piezoelétrico (RECOMENDADO)
 
 Observação: Apenas monitoramento; sinais abaixo de 1 Hz exigem equipamento grande/caro
 
