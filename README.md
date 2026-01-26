@@ -4,7 +4,7 @@
 
 # ELF / VLF RESEARCH (Extremely Low Frequency | Very Low Frequency)
 
-funcionamento atacado...
+dedicado só a sinais industriais até 100 Hz...
 
 ---
 
@@ -23,4 +23,8 @@ Observação: Apenas monitoramento; sinais abaixo de 1 Hz exigem equipamento g
 Sensor: Acelerômetro ou sensor elétrico (corrente/tensão)
 
 Função: Captura vibrações ou sinais elétricos industriais
+
+---
+
+como utilizar
 
