@@ -24,7 +24,7 @@ não é gambiarra nn, é projeto com menor custo
 
 Faixa: 3 Hz–30 Hz (ELF), 3 kHz–30 kHz (VLF)
 
-Sensor: Entrada P2 (microfone ou line-in
+Sensor: Entrada P2 (microfone ou line-in, só cortar e usar como out) 
 
 Setup amador: Cabo P2 (3,5 mm) + Sensor Piezoelétrico (RECOMENDADO)
 
@@ -33,8 +33,6 @@ Observação: Apenas monitoramento; sinais abaixo de 1 Hz exigem equipamento g
 ---
 
 2 - Sinais industriais / alta frequência (1Hz até 100 Hz)
-
-Sensor: Acelerômetro ou sensor elétrico (corrente/tensão)
 
 Função: Captura vibrações ou sinais elétricos industriais
 
