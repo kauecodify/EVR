@@ -1,6 +1,10 @@
 # EVR
 
-pip install adafruit-circuitpython-ads1x15 numpy scipy matplotlib
+pip install numpy scipy matplotlib
+
+pip install pipwin
+
+pipwin install pyaudio
 
 ---
 
