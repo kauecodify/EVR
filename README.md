@@ -1,4 +1,4 @@
-# EVR
+# EVR - Monitor Industrial (0–100 Hz)
 
 pip install numpy scipy matplotlib
 
