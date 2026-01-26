@@ -8,6 +8,8 @@ pip install adafruit-circuitpython-ads1x15 numpy scipy matplotlib
 
 dedicado só a sinais industriais até 100 Hz...
 
+não é gambiarra nn, é proojeto com menor custo
+
 <img width="671" height="546" alt="image" src="https://github.com/user-attachments/assets/76a9d8dc-f9e7-40d0-8255-227f568902ed" />
 
 ---
